@@ -1,0 +1,12 @@
+{
+    "id":  "Somnus678/dsh-input-assistant",
+    "name":  "dsh-input-assistant",
+    "repository":  "https://github.com/Somnus678/dsh-input-assistant",
+    "description":  {
+                        "en":  "Input-box enhancement for DSH: prompt optimization with diff review and revert, next-sentence prediction, inline completion, and per-session draft stashing.",
+                        "zh":  "DSH 输入框增强：提示词优化（差异对比与撤销）、下一句预测、输入续写与当前会话草稿暂存。"
+                    },
+    "added":  "2026-10-23",
+    "category":  "ui",
+    "$schema":  "../schema/plugin.schema.json"
+}
